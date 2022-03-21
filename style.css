@@ -1,0 +1,146 @@
+
+body{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1400px;
+    font-family: 'Oswald',Arial,sans-serif;
+    margin-top: -15px;
+}
+menu{
+    display: flex;
+    padding: 0;
+    height: 120px;
+    width: 100%;
+}
+a{
+    padding: 40px 35px;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+header{
+    background-image: url(img/машина.png);
+    min-height: 100%;
+
+}
+p{
+    color: white;
+}
+p span{
+    color: yellow;
+}
+li {
+    list-style-type: none;
+}
+.servis1{
+    color: #505050;
+    text-align: center;
+    font-size: 25px;
+}
+ul{
+    display: flex;
+}
+.modeli{
+    background-image: url(img/MercedesC200.png);
+    width: 100%;
+}
+.modeli2 a{
+    color: black;
+}
+.logotip{
+    height: 70px;
+    padding: 30px;
+}
+.nazvania{
+    padding: 40px 0px;
+}
+.slogan{
+    margin-left: 200px;
+        font-size: 50px;
+        margin-top: 250px;
+    font-size: 50px;
+    line-height: 1.55;
+    font-weight: 900;
+    letter-spacing: 1px;
+    margin-top: 200px;
+}
+.odin{
+    font-size: 25px;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #ffcc00;
+    font-weight: 900;
+    width: 300px;
+    margin: 200px 40px 200px 300px ;
+}
+.dva{
+    font-size: 25px;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #ffcc00;
+    font-weight: 900;
+    width: 300px;
+    margin: 200px 0px 200px 40px ;
+}
+h1{
+    font-size: 40px; 
+    text-align: center;
+    padding: 20px 0;
+}
+li{
+    width: 25%;
+}
+.servis{
+    width: 348px;
+}
+.servis1_1{
+    text-align: center;
+}
+.modeli2 a{
+    font-size: 25px;
+    padding: 10px;
+    line-height: 2;
+}
+.modeli2{
+    text-align: right;
+    padding-right: 50px;
+}
+.spisok{
+    font-size: 25px;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #ffcc00;
+    font-weight: 900;
+    width: 300px;
+    margin: 80px 0px 100px 0px ;
+}
+footer{
+    background-color: #A9A9A9;
+    display: flex;
+}
+.footer{
+    width: 32%;
+}
+footer p{
+    color: black;
+    font-size: 25px;
+}
+.logotip1{
+    height: 100px;
+    padding: 15px;
+}
+ul{
+    padding: 0;
+}
