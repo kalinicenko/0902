@@ -95,7 +95,7 @@
     .obchee_1{
         display: flex;
     }
-    ul {
+    .uli ul{
         display: none;
     } 
     .pervoe{
@@ -270,5 +270,72 @@
     }
     menu{
         display: none;
+    }
+}
+@media (max-width: 930px) and (min-width: 720px){
+    .footer{
+        padding-left: 100px;
+        padding-right: 0px;
+    }
+    .footers
+    {
+        display: none;
+    }
+}
+@media (max-width: 530px) and (min-width: 480px){
+.novs1, .novs2, .novs3{
+    flex-direction: column;
+    text-align: left;
+    padding: 2%;
+}
+.novs1_1{
+    text-align: center;
+    padding-top: 20px;
+}}
+@media (max-width: 650px) and (min-width: 531px){
+    .novs1, .novs2, .novs3{
+        flex-direction: column;
+        text-align: left;
+        padding: 2%;
+    }
+    .novs1_1{
+        text-align: center;
+        padding-top: 20px;
+        padding-left: 10%;
+    }
+}
+@media (max-width: 699px) and (min-width: 651px){
+    .novs1, .novs2, .novs3{
+        flex-direction: column;
+        text-align: left;
+        padding: 2%;
+    }
+    .novs1_1{
+        text-align: center;
+        padding-top: 20px;
+        padding-left: 10%;
+    }
+}
+@media (max-width: 942px) and (min-width: 700px){
+    .novs1, .novs2, .novs3{
+        flex-direction: column;
+        text-align: left;
+        padding: 2%;
+    }
+    .novs1_1{
+        text-align: center;
+        padding-top: 20px;
+        padding-left: 20%;
+    }
+}
+@media (max-width: 630px){
+    .chs img {
+        width: 450px;
+    }
+      .text img{
+        width: 450px;
+    }
+    .text1 img{
+        width: 450px;
     }
 }
