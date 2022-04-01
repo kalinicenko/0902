@@ -6,10 +6,11 @@
         display: none;
     }
 }
+
 @media (max-width: 1380px)
 {
     header{
-        background-image: url(img/машина1.png);
+        background-image: url(img/машина.png);
         height: 970px;
     }
     .nazvania{
@@ -66,7 +67,10 @@
     }
 }
 @media (max-width: 1190px){
-    
+    header{
+        background-image: url(img/машина1.png);
+        height: 970px;
+    }   
     .nazvania {
         display: none;
     } 
@@ -338,4 +342,24 @@
     .text1 img{
         width: 450px;
     }
+}
+@media (max-width: 1250px){
+    .novs{
+        display: none;
+    }
+    .novs1, .novs2, .novs3, .novs4{
+        display: flex;
+        text-align: center;
+        padding: 0 7%;
+    }
+}
+@media (min-width: 1251px){
+    .novs1_1_1{
+        display: none;
+    }
+    h1 {
+        text-align: center;
+        padding: 10px;
+    }
+    
 }
