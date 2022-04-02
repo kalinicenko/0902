@@ -297,7 +297,7 @@
     padding-top: 20px;
 }}
 @media (max-width: 650px) and (min-width: 531px){
-    .novs1, .novs2, .novs3{
+    .novs1, .novs2, .novs3, .novs4{
         flex-direction: column;
         text-align: left;
         padding: 2%;
