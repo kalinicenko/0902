@@ -290,7 +290,7 @@
 .novs1, .novs2, .novs3, .novs4{
     flex-direction: column;
     text-align: left;
-    padding: 2%;
+    padding: 1% 1%;
 }
 .novs1_1{
     text-align: center;
@@ -305,7 +305,7 @@
     .novs1_1{
         text-align: center;
         padding-top: 20px;
-        padding-left: 10%;
+        padding-left: 2%;
     }
 }
 @media (max-width: 699px) and (min-width: 651px){
@@ -350,7 +350,7 @@
     .novs1, .novs2, .novs3, .novs4{
         display: flex;
         text-align: center;
-        padding: 0 7%;
+        padding: 0 5%;
     }
 }
 @media (min-width: 1251px){
@@ -362,4 +362,19 @@
         padding: 10px;
     }
     
+}
+@media (max-width: 479px){
+    .novs{
+        display: none;
+    }
+    .novs1, .novs2, .novs3, .novs4{
+        flex-direction: column;
+        text-align: left;
+        padding: 2%;
+    }
+    .nadpis {
+        color: #505050;
+        font-size: 20px;
+        margin-right: 30px;
+      }
 }
