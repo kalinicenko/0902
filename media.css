@@ -287,7 +287,7 @@
     }
 }
 @media (max-width: 530px) and (min-width: 480px){
-.novs1, .novs2, .novs3{
+.novs1, .novs2, .novs3, .novs4{
     flex-direction: column;
     text-align: left;
     padding: 2%;
@@ -309,7 +309,7 @@
     }
 }
 @media (max-width: 699px) and (min-width: 651px){
-    .novs1, .novs2, .novs3{
+    .novs1, .novs2, .novs3, .novs4{
         flex-direction: column;
         text-align: left;
         padding: 2%;
@@ -321,7 +321,7 @@
     }
 }
 @media (max-width: 942px) and (min-width: 700px){
-    .novs1, .novs2, .novs3{
+    .novs1, .novs2, .novs3, .novs4{
         flex-direction: column;
         text-align: left;
         padding: 2%;
