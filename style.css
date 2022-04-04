@@ -209,12 +209,47 @@ h2{
 .text1 img{
     width: 600px;  
 }
-
-
-
-
-
- 
+.menu a{
+        font-size: 20px;
+}
+/* о компании */
+.blok1 img{
+    width: 420px;
+    height: 260px;
+}
+.blok2{
+    width: 420px;
+    height: 550px;
+    padding: 0 12px;
+}
+.blok3{
+    width: 420px;
+    height: 550px;
+}
+.blok{
+    display: flex;
+    text-align: center;
+    padding-left: 2%;
+}
+.blok1{
+    width: 440px;
+    height: 550px;
+}
+.blok1_2{
+    margin-top: 27px;
+}
+.blok3{
+    background-color: rgb(97, 97, 97);
+    padding: 0 12px;
+}
+.blok3 p{
+    font-size: 20px; 
+    font-weight: 400;
+    line-height: 1.5
+}
+.blok3 h2{
+    color: #ffcc00;
+}
 
 
 
@@ -260,3 +295,107 @@ margin-right: 20px;
 .dropdown-content a:hover {background-color: rgb(205, 205, 205);}
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: #ffcc00;}
+
+.sotrudniki img{
+    width: 325px;
+    padding: 12.5px;
+}
+.sotrudniki{
+    display: flex;
+}
+.sotrudniki p{
+    color: #000;
+    padding: 0 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.sotrudniki h3{
+    padding: 0 20px;
+}
+.otziv1_1 img{
+    width: 650px;
+    height: 500px;
+}
+.otziv1_1{
+    padding: 0 3%;
+}
+.otziv1 p{
+    padding: 0 20px;
+    color: #000;
+    font-size: 25px;
+    line-height: 1.55;
+    margin-top: 0;
+}
+.otziv1 h3{
+    padding: 0 20px;
+}
+.footer1 img{
+    width: 30px;
+    padding: 0 5px ;
+}
+.footers{
+    padding: 0 30px;
+}
+.footer1 p{
+    margin: 20px;
+}
+.st{
+    color: black;
+    font-weight: 900;
+    font-size: 50px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.sotrudniki1 img{
+    width: 250px;
+    padding: 12.5px;
+}
+.sotrudniki1 p{
+    color: #000;
+    padding: 0 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.sotrudniki1 h3{
+    padding: 0 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+#submit {
+    font-family: sans-serif;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 10px 20px;
+    text-decoration: none;
+    background: -moz-linear-gradient(top, #ffcc00, #caa201);
+}
+    
+#submit:hover {
+    background: -moz-linear-gradient(top, #caa201, #ffcc00)
+}
+#respond input[type=text], textarea {
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+}
+
+form p{
+    color: black;
+    margin: 2%;
+}
+.input{
+    margin: 3px 0px;
+    width:30%
+}
+textarea{
+    width:80%
+}
