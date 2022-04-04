@@ -14,7 +14,6 @@ $send = mail ($address,$sub,$mes,"Content-type:text/plain; charset = UTF-8\r\nFr
 if ($send == 'true')
 {echo "Сообщение отправлено успешно";}
 else {echo "Ошибка, сообщение не отправлено!";}
- 
 }
 else
 {
