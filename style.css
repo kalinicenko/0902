@@ -394,7 +394,8 @@ form p{
 }
 .input{
     margin: 3px 0px;
-    width:30%
+    width:30%;
+    height:30px;
 }
 textarea{
     width:80%

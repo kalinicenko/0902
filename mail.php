@@ -8,7 +8,7 @@ if (isset($_POST['body'])) {$body = $_POST['body']; if ($body == '') {unset($bod
  
 if (isset($name) && isset($email) && isset($sub) && isset($body)){
  
-$address = "olgabulkina@gmail.com";
+$address = "kalinichenko.nkalinichenko@yandex.ru";
 $mes = "Имя: $name \nE-mail: $email \nТема: $sub \nТекст: $body";
 $send = mail ($address,$sub,$mes,"Content-type:text/plain; charset = UTF-8\r\nFrom:$email");
 if ($send == 'true')
