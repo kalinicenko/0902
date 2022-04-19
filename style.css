@@ -4,6 +4,7 @@ body{
     margin-right: auto;
     max-width: 1400px;
     font-family: 'Oswald',Arial,sans-serif;
+    font-size: 14px;
     margin-top: -15px;
 }
 menu{
@@ -401,4 +402,46 @@ form p{
 }
 textarea{
     width:80%
+}
+/*404*/
+.stroka_1 p{
+    color: black;
+}
+.stroka_2 h1{
+    margin: 20px 0px 0px;
+    font-size: 400px;
+    color: #ffcc00;
+    text-align: center;
+}
+.stroka_2 h2{
+    color: #39434d;
+    font-size: 40px;
+    margin: 0 0 22px;
+    letter-spacing: 0.39px
+}
+.stroka_3 p{
+    width: 95%;
+    font-size: 26px;
+    color: #39434d;
+    font-weight: 300;
+    letter-spacing: .36px;
+    padding-left: 30px;
+}
+.naglavnuy button{
+    font-size: 25px;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #ffcc00;
+    font-weight: 900;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.naglavnuy{
+    text-align: center;
+}
+.naglavnuy a{
+    color: black;
 }

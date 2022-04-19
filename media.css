@@ -666,3 +666,28 @@
         padding-left: 40px;
     }
 }
+@media (max-width: 1360px){
+    .stroka_3 p{
+        width: 90%;
+    }
+}
+@media (max-width: 750px){
+    .stroka_2 h1{
+        font-size: 200px;
+    }
+    .naglavnuy button{
+        padding: 5px 20px;
+    }
+    .naglavnuy a{
+        font-size: 20px;
+    }
+}
+@media (max-width: 490px){
+    .stroka_2 h2{
+        font-size: 25px;
+        padding: 0 20px;
+    }
+    .stroka_3 p{
+        font-size: 20px;
+    }
+}
