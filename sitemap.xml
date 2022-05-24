@@ -35,6 +35,42 @@
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
  </url>
+  <url>
+  <loc>https://kalinicenko.github.io/0902/news4.html</loc>
+  <lastmod>2022-05-07T19:07:00+05:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+ </url>
+  <url>
+  <loc>https://kalinicenko.github.io/0902/img/Новости/новости4/meropriyatie.WebP</loc>
+  <lastmod>2022-04-25T19:07:00+05:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+ </url>
+  <url>
+  <loc>https://kalinicenko.github.io/0902/img/Новости/новости4/vozrast.WebP</loc>
+  <lastmod>2022-04-25T19:07:00+05:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+ </url>
+  <url>
+  <loc>https://kalinicenko.github.io/0902/img/Новости/новости4/rabochii.jpg</loc>
+  <lastmod>2022-04-25T19:07:00+05:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+ </url>
+ <url>
+  <loc>https://kalinicenko.github.io/0902/podrobnee1.html</loc>
+  <lastmod>2022-05-07T19:07:00+05:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+ </url>
+  <url>
+  <loc>https://kalinicenko.github.io/0902/img/подробнее/rozigrich.jpg</loc>
+  <lastmod>2022-04-25T19:07:00+05:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+ </url>
  <url>
   <loc>https://kalinicenko.github.io/0902/img/</loc>
   <lastmod>2022-04-25T19:07:00+05:00</lastmod>
@@ -409,6 +445,24 @@
   <changefreq>hourly</changefreq>
   <priority>0.8</priority>
  </url>
-
+ 
+ <url>
+  <loc>https://kalinicenko.github.io/0902/img/подробнее/XXL.jpg</loc>
+  <lastmod>2022-05-20T19:07:00+05:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+ </url>
+  <url>
+  <loc>https://kalinicenko.github.io/0902/podrobnee.html</loc>
+  <lastmod>2022-04-04T19:07:00+05:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.6</priority>
+ </url>
+<url>
+  <loc>https://kalinicenko.github.io/0902/img/Главная/BMW_komp.WebP</loc>
+  <lastmod>2022-05-20T19:07:00+05:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+ </url>
  
 </urlset>
