@@ -21,7 +21,7 @@ a{
     font-weight: 500;
 }
 header{
-    background-image: url(img/машина.png);
+    background-image: url(img/icons/машина.WebP);
     min-height: 100%;
 
 }
@@ -43,7 +43,7 @@ li {
     display: flex;
 }
 .modeli{
-    background-image: url(img/MercedesC200.png);
+    background-image: url(img/Главная/MercedesC200.WebP);
     width: 100%;
 }
 .modeli2 a{
@@ -332,7 +332,6 @@ margin-right: 20px;
 }
 .footer1 img{
     width: 30px;
-    height: 40px;
     padding: 0 5px ;
 }
 .footers{
@@ -364,9 +363,45 @@ margin-right: 20px;
 .footer1 a{
     padding: 0;
 }
-
-
-
+.bolchee{
+    display: flex;
+}
+.bolee p{
+color: #000;
+font-size: 30px;
+font-weight: bold;
+}
+.bolee{
+    margin-left: 3%;
+    margin-right: 3%;
+    text-align: center;
+}
+.bolchee img{
+    width: 600px;
+}
+.bolchee{
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+.itog{
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+margin-bottom: 20px;
+}
+.itog p{
+    color: #000;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 5px;
+margin-top: 7%;
+line-height: 2;
+}
+.itog img{
+    width: 700px;
+}
 
 
 
@@ -445,4 +480,8 @@ textarea{
 }
 .naglavnuy a{
     color: black;
+}
+.razrabotka{
+    text-align: center;
+    padding: 10% 0;
 }
